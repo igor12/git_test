@@ -5,4 +5,8 @@ package cz.nkd;
  */
 public class Igor01 {
 
+    
+    public void neco(){
+        //
+    }
 }
